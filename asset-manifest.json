@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FreeCodeCampTestimonialsPageReactProject/static/css/main.a7d96216.css",
+    "main.js": "/FreeCodeCampTestimonialsPageReactProject/static/js/main.22cacf2a.js",
+    "static/media/testimonio-emma.png": "/FreeCodeCampTestimonialsPageReactProject/static/media/testimonio-emma.add10415a5668325d2f2.png",
+    "static/media/testimonio-shawn.png": "/FreeCodeCampTestimonialsPageReactProject/static/media/testimonio-shawn.0d373888087fb18fc145.png",
+    "static/media/testimonio-sarah.png": "/FreeCodeCampTestimonialsPageReactProject/static/media/testimonio-sarah.5d1284b0dcbdf55af34b.png",
+    "index.html": "/FreeCodeCampTestimonialsPageReactProject/index.html",
+    "main.a7d96216.css.map": "/FreeCodeCampTestimonialsPageReactProject/static/css/main.a7d96216.css.map",
+    "main.22cacf2a.js.map": "/FreeCodeCampTestimonialsPageReactProject/static/js/main.22cacf2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7d96216.css",
+    "static/js/main.22cacf2a.js"
+  ]
+}
